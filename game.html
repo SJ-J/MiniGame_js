@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Snake Game</title>
+<link rel="stylesheet" type="text/css" href="game.css">
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Mono:wght@200;300;400&display=swap');
+</style>
+
+</head>
+<body>
+	<div id="container">
+		<div id="gameover">
+			GAME OVER…😭
+		</div>
+		<div id="restart">
+			Your score is <span id="final"></span> <br>
+			<a onClick="window.location.reload()">
+			Click To Play Again!
+			</a>
+		</div>
+		<canvas id="myCanvas" width="600" height="450"> 
+	   		Your browser does not support the canvas feature
+	  	</canvas>
+		<div id="score">
+			<div>
+				Current Score : <span id="current">0</span>
+			</div>
+		</div>
+	</div>
+	<script src="game.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

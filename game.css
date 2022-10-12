@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+body{
+	font-family: 'Press Start 2P', cursive;
+}
+
+#container {
+	margin: auto;
+	width: 700;
+}
+
+#myCanvas {
+	background-color: #000000;
+	border: 3px  rgb(84, 101, 134) solid;
+}
+
+#gameover {
+	position: absolute;
+	top: 220px;
+	left: 230px;
+	font-size: 15px;
+	text-align: center;
+	color: brown;
+	display: none;
+}
+
+#restart {
+	position: absolute;
+	top: 250px;
+	left: 185px;
+	font-size: 12.5px;
+	text-align: center;
+	color: #FFFFFF;
+	display: none;
+}
+
+#final{
+	font-weight: bold;
+}
+
+#score {
+	width: 606px;
+	height: 100px;
+    padding-top: 20px;
+	/* margin: auto; */
+	color: rgb(220, 220, 220);
+	background-color: rgb(84, 101, 134);
+	text-align: center;
+}
+
+#current, #highest {
+	font-size: 20px;
+	color: rgb(220, 220, 220);
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(160, 187, 236);
+}
+
+span {
+	color: #FFFFFF;
+}
+
