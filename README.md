@@ -7,3 +7,6 @@ _Development Environment_
 * HTML/CSS
 * JavaScript
 
+
+2022.10.12
+https://sj-j.github.io/MiniGame_js/game.html
