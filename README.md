@@ -8,5 +8,5 @@ _Development Environment_
 * JavaScript
 
 
-2022.10.12
+2022.10.12) 
 https://sj-j.github.io/MiniGame_js/game.html
