@@ -1,5 +1,5 @@
 <!-- TITLE -->
-# 👽픽셀먹기게임
+# 👽픽셀먹기
 
 <!-- PLAY VIDEO -->
 ![1](https://user-images.githubusercontent.com/92574014/195999377-640fec01-732b-4305-bcf4-09f8f007feba.gif)
